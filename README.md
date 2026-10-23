@@ -161,6 +161,8 @@ composer require laravel/ui
 php artisan ui bootstrap --auth
 npm install && npm run dev
 ```
+<img width="505" height="616" alt="Image" src="https://github.com/user-attachments/assets/7a475198-ac7d-40e3-96e6-89ae42e7ebdc" />
+<img width="656" height="357" alt="image" src="https://github.com/user-attachments/assets/56c2a442-891b-49f8-9fd9-9bbba6e1a329" />
 
 ---
 
@@ -217,6 +219,13 @@ php artisan migrate:fresh    # Regenera la estructura completa desde cero
 1. **Instalación Base:** Despliegue exitoso del motor Laravel v13.37.0.
 2. **Autenticación:** Formulario de registro e inicio de sesión funcional utilizando la ruta `/register` (`http://127.0.0.1:8000/register`).
 3. **Persistencia:** Almacenamiento correcto de usuarios en la tabla `users` con contraseñas encriptadas bajo el algoritmo **bcrypt**.
+
+
+<img width="975" height="594" alt="Image" src="https://github.com/user-attachments/assets/b64145da-f0cb-4997-8879-d2c9c58cce80" />
+
+<img width="975" height="286" alt="image" src="https://github.com/user-attachments/assets/becedf48-f616-49d6-a7b5-ec146800093e" />
+
+
 
 ---
 
