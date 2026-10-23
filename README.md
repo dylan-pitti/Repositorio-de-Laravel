@@ -142,7 +142,7 @@ php artisan migrate
 > **Nota:** Laravel identifica la ausencia de la base de datos `laravel` y consulta si se desea crear automáticamente; se confirmó mediante la opción `yes`.
 
 ---
-
+<img width="819" height="239" alt="Image" src="https://github.com/user-attachments/assets/8de5dcab-d3f3-4497-aaf4-04024030e251" />
 ### Paso 6: Compilación de Assets Frontend
 
 ```bash
