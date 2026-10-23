@@ -1,4 +1,4 @@
-# GUÍA TÉCNICA Y REPORTE DE LABORATORIO #2
+<img width="975" height="770" alt="image" src="https://github.com/user-attachments/assets/e4af921c-fc3c-4f10-965c-4c4a04ae25d2" /># GUÍA TÉCNICA Y REPORTE DE LABORATORIO #2
 > **Módulo:** Implementación de Login y Configuración Inicial en Laravel  
 > **Asignatura:** Desarrollo Web 2  
 > **Institución:** Universidad Tecnológica de Panamá — Facultad de Ingeniería de Sistemas Computacionales  
@@ -76,6 +76,8 @@ Navegar al directorio raíz del servidor local y ejecutar el comando de iniciali
 cd C:\wamp64\www
 laravel new lab_laravel
 ```
+<img width="975" height="701" alt="Image" src="https://github.com/user-attachments/assets/eebe71be-9451-4eec-beb9-9da5b0bf12df" />
+
 > **Nota de instalación:** Durante el asistente interactivo se seleccionó **none** para el *starter kit* y **Blade** para el *frontend stack*.
 
 ---
@@ -97,6 +99,9 @@ DB_DATABASE=laravel
 DB_USERNAME=root
 DB_PASSWORD=
 ```
+<img width="533" height="204" alt="Image" src="https://github.com/user-attachments/assets/f430f730-ca21-44f5-8819-71f5cc3dffde" />
+
+<img width="426" height="209" alt="Image" src="https://github.com/user-attachments/assets/e117432c-f95b-48d5-aaae-17cfc3c5e2fa" />
 
 ---
 
@@ -111,6 +116,7 @@ public function boot(): void
     Schema::defaultStringLength(191);
 }
 ```
+<img width="975" height="770" alt="Image" src="https://github.com/user-attachments/assets/060a7589-805b-45fe-af45-e90b30d73d74" />
 
 ---
 
@@ -121,6 +127,10 @@ php artisan config:clear
 php artisan config:cache
 composer update
 ```
+<img width="545" height="182" alt="Image" src="https://github.com/user-attachments/assets/38d1a64d-5bc6-48c3-9751-ecd3b132c58d" />
+
+<img width="550" height="151" alt="Image" src="https://github.com/user-attachments/assets/ba835021-b4a3-4ab3-b38b-b8b50e3ca43d" />
+
 
 ---
 
